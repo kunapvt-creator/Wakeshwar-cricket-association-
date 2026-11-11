@@ -1,0 +1,6 @@
+{
+  "name": "Wakeshwar Cricket Association (WCA)",
+  "description": "Official digital platform of Wakeshwar Cricket Association (WCA) for players, clubs, tournaments, live scores, rankings, and cricket administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
